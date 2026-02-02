@@ -1,5 +1,7 @@
 # Python script to read an Excel file and output mp3
 
+File quality is tailored for use as telephony prompts
+
 ## Functionality split in separate .py files:
  - aws_tts_fn - generate file via AWS Polly
  - ms_tts_fn - generate file via MS Azure Speech
