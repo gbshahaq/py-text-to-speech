@@ -1,0 +1,8 @@
+boto3
+contextlib2
+azure.cognitiveservices.speech
+pandas
+openpyxl
+logging
+ushlex
+subprocess.run
